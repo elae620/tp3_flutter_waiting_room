@@ -93,7 +93,7 @@ Dans `pubspec.yaml`, nous avons ajouté la dépendance :
 
 ```yaml
 dependencies:
-  provider: ^6.0.0
+  provider: ^6.1.5+1
 ```
 
 Puis nous avons exécuté :
